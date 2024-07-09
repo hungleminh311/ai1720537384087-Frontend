@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Professional and Hassle-Free Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams with Reliable Car Rentals"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Professional and Hassle-Free Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams with Reliable Car Rentals"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Professional and Hassle-Free Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams with Reliable Car Rentals"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Professional and Hassle-Free Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams with Reliable Car Rentals"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Professional and Hassle-Free Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams with Reliable Car Rentals"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Professional and Hassle-Free Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams with Reliable Car Rentals"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Professional and Hassle-Free Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams with Reliable Car Rentals"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Professional and Hassle-Free Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams with Reliable Car Rentals"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive Your Dreams with Reliable Car Rentals",
+  "subtitle": "Professional and Hassle-Free Car Rental Services Tailored to Your Journey"
+}
